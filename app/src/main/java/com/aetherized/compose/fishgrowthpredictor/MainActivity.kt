@@ -1,4 +1,4 @@
-package com.pondpedia.compose.fishgrowthpredictor
+package com.aetherized.compose.fishgrowthpredictor
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.pondpedia.compose.fishgrowthpredictor.ui.theme.FishGrowthPredictorTheme
+import com.aetherized.compose.fishgrowthpredictor.ui.theme.FishGrowthPredictorTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

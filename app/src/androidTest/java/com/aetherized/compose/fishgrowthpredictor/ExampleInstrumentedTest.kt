@@ -1,4 +1,4 @@
-package com.pondpedia.compose.fishgrowthpredictor
+package com.aetherized.compose.fishgrowthpredictor
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

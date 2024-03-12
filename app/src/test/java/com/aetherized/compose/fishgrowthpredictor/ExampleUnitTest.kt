@@ -1,4 +1,4 @@
-package com.pondpedia.compose.fishgrowthpredictor
+package com.aetherized.compose.fishgrowthpredictor
 
 import org.junit.Test
 

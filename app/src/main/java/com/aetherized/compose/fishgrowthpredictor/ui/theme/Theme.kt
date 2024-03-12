@@ -1,4 +1,4 @@
-package com.pondpedia.compose.fishgrowthpredictor.ui.theme
+package com.aetherized.compose.fishgrowthpredictor.ui.theme
 
 import android.app.Activity
 import android.os.Build
